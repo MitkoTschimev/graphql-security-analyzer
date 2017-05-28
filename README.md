@@ -9,4 +9,4 @@ To achieve this POC i will use Graphcool which gives you the possibility to easy
 
 
 
-*Special thanks to [Graphcool](https://www.graph.cool/) for this nice application
+### Special thanks to [Graphcool](https://www.graph.cool/) for this nice application
