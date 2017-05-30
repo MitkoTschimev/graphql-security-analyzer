@@ -1,0 +1,23 @@
+{
+  "name": "graphql-security-analyzer",
+  "version": "0.0.1",
+  "description": "An analyzing tool for graphql endpoints to get an overview about all possible read / write rights to nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfiwm/graphql-security-analyzer.git"
+  },
+  "keywords": [
+    "graphql",
+    "security"
+  ],
+  "author": "Mitko Tschimev <net.mitko.tschimev@mhp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfiwm/graphql-security-analyzer/issues"
+  },
+  "homepage": "https://github.com/tfiwm/graphql-security-analyzer#readme"
+}
