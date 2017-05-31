@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/tfiwm/graphql-security-analyzer#readme",
   "dependencies": {
-    "graphql": "^0.10.1"
+    "graphql": "0.10.1"
   }
 }
