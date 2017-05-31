@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tfiwm/graphql-security-analyzer/issues"
   },
-  "homepage": "https://github.com/tfiwm/graphql-security-analyzer#readme"
+  "homepage": "https://github.com/tfiwm/graphql-security-analyzer#readme",
+  "dependencies": {
+    "graphql": "^0.10.1"
+  }
 }
