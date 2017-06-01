@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/tfiwm/graphql-security-analyzer#readme",
   "dependencies": {
-    "graphql": "0.10.1"
+    "@types/graphql": "^0.9.1",
+    "@types/node-fetch": "^1.6.7",
+    "graphql": "0.10.1",
+    "node-fetch": "1.7.0",
+    "typescript": "^2.3.4"
   }
 }
